@@ -24,7 +24,6 @@ else{
        else {
         console.log(`Algo de errado não está certo, o mês digitado foi Dezembro`)
        } 
-       let anoNovo = true
-       if (anoNovo = true) {
-        console.log(`Ano Novo está chegando!!`)
-       }
+
+    console.log(`Ano Novo está chegando!!`)
+       
